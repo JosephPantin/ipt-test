@@ -12,6 +12,6 @@ int main() {
 
 	printf("pantin staging");
 
-	
+	print("add new features");
 return 0;
 }
