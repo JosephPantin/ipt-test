@@ -3,12 +3,19 @@
 int main() {
 	printf("Hello, World in Git!");
 
-        printf("Im Guduyo")
+        printf("Im Guduyo");
 
 
-        printf("Im  Mercado")
+        printf("Im  Mercado");
 
 	printf("Im Iyog -edited");
+
+
+	printf("pantin staging");
+
+	print("add new features");
+return 0;
+
 
 	
 }
