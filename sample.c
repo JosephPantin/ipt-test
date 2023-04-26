@@ -3,12 +3,15 @@
 int main() {
 	printf("Hello, World in Git!");
 
-        printf("Im Guduyo")
+        printf("Im Guduyo");
 
 
-        printf("Im  Mercado")
+        printf("Im  Mercado");
 
 	printf("Im Iyog");
 
+	printf("pantin staging");
 
+	
+return 0;
 }
